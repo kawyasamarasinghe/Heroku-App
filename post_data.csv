@@ -1,0 +1,57 @@
+post_id,spi_type,location,quantity,price,industry,seller
+P1,1,Gampaha,10,2000,Manufacturing,James
+P2,3,Colombo,5,1500,Construction,Michael
+P3,1,Nattandiya,5,100,Recycling,Robert
+P4,2,Colombo,50,1250,Recycling,John
+P5,1,kadawatha,10,2000,Manufacturing,David
+P6,4,Malambe,20,4000,Recycling,William
+P7,5,Gampaha,8,2400,Recycling,Senuri
+P8,6,Colombo,24,5200,Construction,Mdushan
+P9,4,Gampaha,30,7300,Construction,Wihas
+P10,3,Malambe,20,4400,Recycling,Madavi
+P11,1,Colombo ,5,500,Recycling,Roshan
+P12,5,Kiribathgoda,12,3220,Other,Nimesh
+P13,4,Colombo,10,1600,Recycling,Kushan
+P14,5,Kadawatha,13,2300,Construction,Kavisha
+P15,2,Colombo,18,4200,Other,Rumesha
+P16,6,Gampaha,21,5400,Manufacturing,Rumasha
+P17,1,Jaela,50,10100,Recycling,Bimasha
+P18,4,Colombo,20,4000,Construction,Winu
+P19,5,Homagama,2,400,Recycling,Maheshi
+P20,4,Kottawa,8,2400,Recycling,Delvin
+P21,2,Maharagama,12,3600,Manufacturing,Kumudesh
+P22,1,Gampaha,10,2000,Recycling,Manavi
+P23,5,Gampaha,5,1000,Recycling,Nilupa
+P24,1,Galle,10,3500,Recycling,Wasantha
+P25,5,Gampha,20,400,Other,Gemini
+P26,6,Colombo,40,16000,Recycling,Tay
+P27,2,Gampaha ,10,3500,Recycling,Tawan
+P28,1,Ragama,30,1200,Recycling,Newwie
+P29,5,Gampaha,10,30000,Recycling,Fourth
+P30,4,Kandy,50,10000,Manufacturing,Thareesha
+P31,6,Kandy,40,16000,Manufacturing,Richard D
+P32,3,Colombo,65,19500,Construction,Kasuni
+P33,2,Jaffna,18,5000,Recycling,Maleesha
+P34,2,Homagama,25,5000,Other,Mayumi
+P35,2,Kadawatha,66,12000,Manufacturing,Rumasha
+P36,3,Kandy,15,800,Recycling,Venuri
+P37,6,Jaffna,56,9400,Construction,Hiruja
+P38,4,Kottawa,8,950,Recycling,Yethmin
+P39,1,Malambe,56,11200,Manufacturing,Saman
+P40,3,Kiribathgoda,19,3500,Manufacturing,Kushan R
+P41,1,Colombo,20,6000,Manufacturing,DSPerera
+P42,3,Nugegoda ,9,4500,Construction,Janaka
+P43,6,Galle,7,3500,Manufacturing,Kawii
+P44,6,Homagama,30,15000,Recycling,Sulochana
+P45,1,Colombo,5,2500,Manufacturing,Nethmi
+P46,6,Kottawa,8,4500,Construction,Hiruni
+P47,1,Ampara,10,2000,Recycling,Methni
+P48,2,Ampara,15,2500,Recycling,Kookie
+P49,1,Kottawa,25,2400,Manufacturing,ParindyaK
+P50,5,Galle,8,1200,Recycling,Lochana
+P51,6,Galle,12,4500,Recycling,Kithmi
+P52,1,Homagama,15,6500,Manufacturing,Pabasara
+P53,2,Gampaha,13,4000,Manufacturing,Charith
+P54,3,Yakkala ,24,2400,Recycling,Milan
+P55,5,Kiribathgoda ,3,500,Other,Sandamini
+P56,4,Colombo,20,2000,Recycling,Manuda
